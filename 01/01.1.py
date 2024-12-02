@@ -1,5 +1,4 @@
 import sys
-
 def calculateDistance():
     list1 = []
     list2 = []
